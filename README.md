@@ -3,15 +3,15 @@
 Welcome to the Estate Inventory Application project! This application helps users track and manage estate assets through a structured, user-friendly web interface. The foundation is derived from a comprehensive estate inventory form template that covers all major asset categories.
 
 ## 📋 Table of Contents
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Technologies](#technologies)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Project Structure](#project-structure)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Disclaimer](#disclaimer)
+1. [Overview](#-overview)
+2. [Features](#-features)
+3. [Technologies](#-technologies)
+4. [Installation](#-installation)
+5. [Usage](#-usage)
+6. [Project Structure](#-project-structure)
+7. [Contributing](#-contributing)
+8. [License](#-license)
+9. [Disclaimer](#-disclaimer)
 
 ## 🎯 Overview
 
